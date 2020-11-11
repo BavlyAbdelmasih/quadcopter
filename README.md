@@ -14,7 +14,7 @@ Continuous Control Task
 
 #### Final Result :
 - Final Reward-Episode Plot  :<br>
-![Final Reward-Episode Plot](resources/reward_episode.png)
+![Final Reward-Episode Plot](https://github.com/bavly19/quadcopter/blob/master/reward_episode.png)
 
 
 ## Project Instructions
